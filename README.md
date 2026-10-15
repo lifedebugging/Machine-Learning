@@ -1,3 +1,4 @@
 # Machine-Learning
 
-This Repo will server the learning of Machine Learning
+I will be tracking my Machine Learning concepts via this repo
+
